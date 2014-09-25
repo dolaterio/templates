@@ -1,0 +1,15 @@
+{
+  "name": "dolater_nodejs_template",
+  "version": "0.0.1",
+  "description": "node.js worker template for dolater.io",
+  "author": "Albert Callarisa Roca",
+  "license": "MIT",
+  "main": "worker.js",
+  "scripts": {
+    "worker": "node worker.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
