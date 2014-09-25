@@ -15,8 +15,8 @@ function readAllInput(cb) {
   });
 }
 
-function readEnvVar(var_name) {
-  return process.env[var_name];
+function readEnvVar(varName) {
+  return process.env[varName];
 }
 
 

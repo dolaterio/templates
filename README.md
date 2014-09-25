@@ -7,6 +7,7 @@ Please refer to our guide [How to write a doalter.io worker](https://github.com/
 # Available templates
 
 + [Node.js](nodejs)
++ [Ruby](ruby)
 
 # Building the docker image
 
